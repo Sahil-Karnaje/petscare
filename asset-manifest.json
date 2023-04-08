@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b137defe.css",
+    "main.js": "/static/js/main.d22a43fa.js",
+    "static/js/787.81e16910.chunk.js": "/static/js/787.81e16910.chunk.js",
+    "static/media/Misty the Persian cat _ Sony a5100 cinematic video.mp4": "/static/media/Misty the Persian cat _ Sony a5100 cinematic video.60fd98cdb13206e52790.mp4",
+    "static/media/catFood.png": "/static/media/catFood.a57452d047fe088cd846.png",
+    "index.html": "/index.html",
+    "main.b137defe.css.map": "/static/css/main.b137defe.css.map",
+    "main.d22a43fa.js.map": "/static/js/main.d22a43fa.js.map",
+    "787.81e16910.chunk.js.map": "/static/js/787.81e16910.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b137defe.css",
+    "static/js/main.d22a43fa.js"
+  ]
+}
